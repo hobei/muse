@@ -1,5 +1,8 @@
-Poet [![Build Status](https://travis-ci.org/jsantell/poet.png)](https://travis-ci.org/jsantell/poet)
+Muse [![Build Status](https://travis-ci.org/jsantell/muse.png)](https://travis-ci.org/jsantell/muse)
 ======
+
+Muse is a fork of poet 
+** Working Progess **
 
 **[Looking for maintenance help!](https://github.com/jsantell/poet/issues/91)**
 
