@@ -1,7 +1,7 @@
 {
-  "name": "poet",
+  "name": "@hobei/muse",
   "description": "quick and easy blog module, using markdown, jade, whatever",
-  "version": "2.0.2",
+  "version": "0.0.1",
   "main": "lib/poet",
   "dependencies": {
     "marked": "~0.3.2",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/jsantell/poet"
+    "url": "http://github.com/hobei/muse"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec --ui bdd"
@@ -34,8 +34,8 @@
     "writing"
   ],
   "author": {
-    "name": "Jordan Santell",
-    "url": "http://github.com/jsantell"
+    "name": "Simon Long",
+    "url": "http://github.com/hobei"
   },
   "license": "MIT",
   "engines": ["node >= 0.10.2"]
